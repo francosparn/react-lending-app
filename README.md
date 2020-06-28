@@ -1,5 +1,7 @@
 ## Preview
 
+Loan application developed in React.
+
 ![](https://i.imgur.com/R9GWIAS.png)
 ![](https://i.imgur.com/ExMWUCa.png)
 
