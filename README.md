@@ -1,6 +1,6 @@
 ## Preview
 
-Loan application developed in React.
+Loan application developed in React, other technologies used (HTML, CSS and Bootstrap).
 
 ![](https://i.imgur.com/R9GWIAS.png)
 ![](https://i.imgur.com/ExMWUCa.png)
